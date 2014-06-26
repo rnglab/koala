@@ -99,7 +99,7 @@ var koala =
 		* @param value
 		* @returns {Boolean} item index in array
 		**/
-		in_array : function(arr,value)
+		inArray : function(arr,value)
 		{
 			arr.forEach(function(item,index)
 			{
