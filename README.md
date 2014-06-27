@@ -82,4 +82,4 @@ _Set Click Event_
 
 _Set listener to given event for given dom element_
 
-`koala.event("mousemove", function(){ console.log("Koala Event") });`
+`koala.event("mousemove", elm, function(){ console.log("Koala Event") });`
