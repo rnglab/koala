@@ -8,7 +8,7 @@ Koala is simple and not includes any other framework.
 
 **History :**
 
-I wrote this very basic framework( koala is a small js object ) for my mobile applications in short time. You know, modern and big frameworks (like jquery) registers many event in dom. Jquery effects, events and other some methods are uses high cpu and memory recources. For any mobile device that means performance problems. If you are developing with phonegap or any html5 framework, memory and cpu usage is very important for you. 
+I wrote this very basic framework( koala is a small js object ) for my mobile applications in short time. You know, modern and big frameworks (like jquery) registers many events in dom. Jquery effects, events and other some methods are uses high cpu and memory recources. For any mobile device that means performance problems. If you are developing with phonegap or any html5 framework, memory and cpu usage is very important for you. 
 Whatever, basicly i devoloped koala for this point. Koala works for simple actions(show,hide,select,fadeIn..) in dom with low recource(cpu,memory) usage and not includes any other big framework. Koala has very simple code and many lost features then other complex frameworks.  
 
 
