@@ -8,7 +8,9 @@ Koala is a real minimal javascript framework for hybrid mobile aplications.
 
 I wrote koala.js for my hybrid mobile application in short time. You know, modern frameworks like jquery registers many events in dom. Effects, events and other some methods are uses high cpu and memory recources. For any mobile device that means performance problems. If you are developing mobile apps based on cordova - phonegap, you have to optimize your apps memory and cpu usage. 
 
-Whatever, basicly i devoloped koala for this point. Koala works for simple actions(show,hide,select,fadeIn..) with low recource(cpu,memory) usage and not includes any other framework. Koala has very simple code and many lost features then other complex frameworks.  
+Koala works for simple actions(show,hide,select,fadeIn..) with low recource(cpu,memory) usage and not includes any other framework. 
+
+Koala has very simple code and many lost features then other complex frameworks.  
 
 
 **Functions :**
